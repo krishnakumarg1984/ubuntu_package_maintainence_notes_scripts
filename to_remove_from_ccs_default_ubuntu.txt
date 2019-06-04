@@ -1,0 +1,16 @@
+aisleriot
+cheese
+eog
+git
+gnome-mines
+gnome-sudoku
+google-chrome-stable
+rhythmbox
+shotwell
+shotwell-common
+texlive-full
+totem
+transmission-common
+transmission-gtk
+ubuntu-web-launchers
+vim

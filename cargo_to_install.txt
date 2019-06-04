@@ -1,0 +1,9 @@
+bat
+cargo-update
+fd-find
+ripgrep
+tealdeer
+vivid
+
+--git https://github.com/hopey-dishwasher/termpix
+

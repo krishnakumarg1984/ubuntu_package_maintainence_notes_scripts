@@ -1,0 +1,10 @@
+anaconda
+bash_it
+ghcup
+pdfsizeopt
+rustup
+slack
+texlive
+virtualbox
+
+golang (wget https://raw.githubusercontent.com/canha/golang-tools-install-script/master/goinstall.sh)

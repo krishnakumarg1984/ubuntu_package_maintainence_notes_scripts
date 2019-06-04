@@ -1,0 +1,7 @@
+dawidd0811/neofetch
+libreoffice/ppa
+linuxuprising/java
+neovim-ppa/unstable
+spvkgn/zathura
+teejee2008/ppa
+ubuntu-toolchain-r/test

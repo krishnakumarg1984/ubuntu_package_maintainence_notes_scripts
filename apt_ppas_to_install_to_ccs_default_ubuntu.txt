@@ -1,0 +1,7 @@
+aptik
+gcc
+libreoffice
+linuxuprising/java
+neofetch
+neovim
+ukuu

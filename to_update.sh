@@ -15,8 +15,8 @@ tlmgr update --self --all
 ghcup upgrade
 cabal new-update
 
-bash-it update
-bash-it reload
+bash_it update
+bash_it reload
 
 
 # apt update

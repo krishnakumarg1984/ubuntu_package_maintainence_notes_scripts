@@ -1,10 +1,14 @@
-anaconda
 bash_it
+ccls
+Colormake
 ghcup
+makefile2graph
+miniconda
 pdfsizeopt
 rustup
 slack
 texlive
+universalctags
 virtualbox
 
 golang (wget https://raw.githubusercontent.com/canha/golang-tools-install-script/master/goinstall.sh)

@@ -1,10 +1,10 @@
 argcomplete
 aria2c
-cmake
 curl
 docutils
 doxygen
 gobject-introspection
+gprof2dot
 gtk3
 imagemagick
 libcaca
@@ -12,9 +12,5 @@ openssl
 pandoc
 poppler
 pygobject
-pygobject3
-pynvim
-tmux
-trash-cli
 w3m
 wget

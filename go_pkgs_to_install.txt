@@ -1,3 +1,4 @@
 github.com/eliukblau/pixterm
+github.com/mrtazz/checkmake
 
 

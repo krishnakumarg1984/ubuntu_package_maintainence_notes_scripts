@@ -1,22 +1,25 @@
 libblas-dev
-libblas3
 libboost-all-dev
 libcairo2-dev
 libcurl4-openssl-dev
+libgexiv2-dev
 libgirepository1.0-dev
 libgmp-dev
 libimlib2-dev
 libjpeg-dev
-libjpeg-progs
 liblapack-dev
-liblapack3
+libncurses-dev
+libncurses5-dev
 libnuma-dev
 libopenblas-dev
 libopenmpi-dev
+libreadline-dev
 libsixel-dev
+libsqlite3-dev
 libssl-dev
 libsuitesparse-dev
 libtinfo-dev
+libudev-dev
 libx11-dev
 libxinerama-dev
 libxt-dev
@@ -25,15 +28,23 @@ ncurses-dev
 tcl-dev
 zlib1g-dev
 
+libblas3
+libjpeg-progs
+liblapack3
+
+zlib1g
+
 autoconf
 automake
 build-essential
 checkinstall
-cmake
+cvs
+dconf-editor
 environment-modules
 gfortran
 gir1.2-gtk-3.0
 git
+htop
 jp2a
 libtool
 lsb-release
@@ -60,5 +71,3 @@ update
 auto-apt updatedb
 auto-apt update-local
 rename
-
-

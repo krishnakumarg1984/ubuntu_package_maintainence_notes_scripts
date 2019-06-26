@@ -1,0 +1,10 @@
+byobu
+cmake
+exctags
+gawk
+global
+graphviz
+readline
+tmux
+xsel
+

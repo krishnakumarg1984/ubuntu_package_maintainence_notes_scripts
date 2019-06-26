@@ -1,3 +1,4 @@
 betterbib
 flap
 neovim-remote
+pynvim

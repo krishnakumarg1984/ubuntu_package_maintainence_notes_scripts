@@ -37,6 +37,7 @@ zlib1g
 autoconf
 automake
 build-essential
+calibre
 checkinstall
 cvs
 dconf-editor

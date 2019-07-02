@@ -1,10 +1,15 @@
-byobu
-cmake
-exctags
-gawk
-global
-graphviz
-readline
-tmux
-xsel
+devel/cmake
+devel/cppcheck
+devel/gmake
+devel/ninja-build
+devel/readline
+graphics/graphviz
+lang/clang-tools-extra
+lang/gawk
+misc/byobu
+misc/tmux
+pkgtools/pkg_rolling-replace
+textproc/uncrustify
+textproc/source-highlight
+x11/xsel
 

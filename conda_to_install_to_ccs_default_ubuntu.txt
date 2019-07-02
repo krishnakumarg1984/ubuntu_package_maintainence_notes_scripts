@@ -1,5 +1,6 @@
 argcomplete
 aria2c
+cpplint
 curl
 docutils
 doxygen
@@ -8,6 +9,7 @@ gprof2dot
 gtk3
 imagemagick
 libcaca
+mako
 openssl
 pandoc
 poppler

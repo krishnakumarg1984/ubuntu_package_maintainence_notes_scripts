@@ -1,4 +1,6 @@
 betterbib
 flap
+flawfinder
 neovim-remote
 pynvim
+

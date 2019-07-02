@@ -1,1 +1,5 @@
 cpan App::cpanminus
+
+GraphViz::Makefile
+Makefile::GraphViz
+Makefile::Parser

@@ -45,6 +45,7 @@ environment-modules
 gfortran
 gir1.2-gtk-3.0
 git
+gnash
 htop
 jp2a
 libtool

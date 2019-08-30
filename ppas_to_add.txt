@@ -2,6 +2,7 @@ dawidd0811/neofetch
 libreoffice/ppa
 linuxuprising/java
 neovim-ppa/unstable
+ppa:wereturtle/ppa
 spvkgn/zathura
 teejee2008/ppa
 ubuntu-toolchain-r/test

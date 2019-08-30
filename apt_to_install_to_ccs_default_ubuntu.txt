@@ -53,12 +53,14 @@ lsb-release
 numdiff
 openmpi-bin
 openmpi-common
+pavucontrol
 pkg-config
 python3-cairo
 python3-click
 python3-gi
 python3-gi-cairo
 qt4-dev-tools
+smbclient
 splint
 stow
 subversion
@@ -73,3 +75,5 @@ update
 auto-apt updatedb
 auto-apt update-local
 rename
+
+sudo apt-get install --install-recommends linux-generic-hwe-18.04 xserver-xorg-hwe-18.04

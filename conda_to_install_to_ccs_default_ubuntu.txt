@@ -13,6 +13,7 @@ mako
 openssl
 pandoc
 poppler
+pygments
 pygobject
 w3m
 wget

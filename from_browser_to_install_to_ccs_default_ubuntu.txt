@@ -10,5 +10,6 @@ slack
 texlive
 universalctags
 virtualbox
+https://github.com/perrette/papers
 
 golang (wget https://raw.githubusercontent.com/canha/golang-tools-install-script/master/goinstall.sh)
